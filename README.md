@@ -71,9 +71,11 @@ Data Engineer & AI Enthusiast
 
 ## 🌟 Future Improvements
 
-- Add more visualization plots.
-- Enhance model accuracy by hyperparameter tuning.
-- Create a Streamlit web application for real-time predictions.
+-Improve Model Accuracy and Flexibility
+Incorporate advanced algorithms like XGBoost or LightGBM, perform hyperparameter tuning, and allow users to switch between multiple models within the app.
+
+-Enhance User Experience with Streamlit Features
+Add interactive elements such as dropdowns, sliders, file upload options, and display prediction confidence, key metrics, and visual feedback like SHAP plots.
 
 ---
 
